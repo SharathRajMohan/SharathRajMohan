@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Sharath.</h1>
-<h3 align="center">navigating the realms of software development and data science with an unwavering passion for innovation and problem-solving.</h3>
+<h3 align="center">Navigating the realms of software development and data science with an unwavering passion for innovation and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathrajmohan&label=Profile%20views&color=0e75b6&style=flat" alt="sharathrajmohan" /> </p>
 
