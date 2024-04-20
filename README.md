@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharathrajmohan&show_icons=true&locale=en" alt="sharathrajmohan" /></p>
 
-<p>&nbsp;<a href="http://https://sharathrajmohan.netlify.app/">Link to my portfolio</a></p>
+<p>&nbsp;<a href="http://sharathrajmohan.netlify.app/">Link to my portfolio</a></p>
